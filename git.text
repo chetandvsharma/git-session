@@ -2,3 +2,4 @@
 "This is my second commit"
 "This is my third commit"
 "Testing detached head, by commiting into the older commit"
+"Testing detached head, created new branch to safe changes in detached head, I luckily copied the hash"
