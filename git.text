@@ -6,3 +6,5 @@
 "Testing reset --soft"
 
 "Adding this line to test --soft reset"
+"testing --soft reset again"
+"Adding this line to test --mixed reset"
